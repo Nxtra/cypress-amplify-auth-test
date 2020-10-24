@@ -35,4 +35,3 @@ Configure Cypress:
 - In one terminal start the app: `npm start`
 - In another terminal run: `npm run cypress:open`
 - Choose the spec you want to run
-# cypress-amplify-auth-test
