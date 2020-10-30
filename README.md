@@ -1,9 +1,18 @@
 # Cypress AWS Amplify Auth Example
 
-![Succesfull test](img/test-succes.png)
-
 This project contains an example of how to test an Amplify application that is protected with authentication from a Cognito User Pool.  
 After this you'll no longer have to worry about signing in through the UI before every single one of your tests.
+
+From having to authenticate before each test:
+
+![Auth before test](img/test-must-sign-in.png)
+
+
+To being signed in and flawlessly test:
+
+![Succesfull test](img/test-succes.png)
+
+
 
 Setup the Amplify project:
 
